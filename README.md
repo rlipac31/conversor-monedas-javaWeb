@@ -18,7 +18,7 @@ Aquí puedes ver el proyecto en ejecución:
 
 ![Ejemplo de Conversión]
 
-<img src="https://i.ibb.co/4w1SQtJL/" alt="Imagen del Frontend App-Votar">
+<img src="https://i.ibb.co/8ntHRSwj/result.png" alt="Imagen del Frontend App-Votar">
 *Esta imagen ilustra la lista de monedas disponibles que se muestra al usuario.*
 
 

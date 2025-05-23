@@ -52,4 +52,9 @@ public class MonedaConversion {
                 ", conversion_result= " + conversion_result +
                 '}';
     }
+
+    // Método para mostrar información
+   /* public void mostrarResultado() {
+        System.out.println( "Monto a cambiar: " + base_code + ", Moneda => simbolo: " + );
+    }*/
 }

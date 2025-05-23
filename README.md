@@ -10,6 +10,20 @@ Este proyecto es un simple conversor de monedas desarrollado en Java 17. Utiliza
 * Utiliza la librería Gson para convertir la respuesta JSON de la API a objetos Java, facilitando el acceso a los datos.
 * Ofrece la opción de realizar múltiples conversiones hasta que el usuario decida salir.
 
+## Capturas de Pantalla
+
+Aquí puedes ver el proyecto en ejecución:
+
+### Ejemplo de Conversión
+
+![Ejemplo de Conversión]
+
+<img src="https://i.ibb.co/4w1SQtJL/result.png" alt="Imagen del Frontend App-Votar">
+*Esta imagen ilustra la lista de monedas disponibles que se muestra al usuario.*
+
+**(Reemplaza `ruta/a/tu/imagen_conversion.png` y `ruta/a/tu/imagen_lista_monedas.png` con las rutas reales a tus archivos de imagen.)**
+
+
 ## Tecnologías Utilizadas
 
 * **Java 17**: El lenguaje de programación utilizado.

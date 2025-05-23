@@ -18,10 +18,9 @@ Aquí puedes ver el proyecto en ejecución:
 
 ![Ejemplo de Conversión]
 
-<img src="https://i.ibb.co/4w1SQtJL/result.png" alt="Imagen del Frontend App-Votar">
+<img src="https://i.ibb.co/4w1SQtJL/" alt="Imagen del Frontend App-Votar">
 *Esta imagen ilustra la lista de monedas disponibles que se muestra al usuario.*
 
-**(Reemplaza `ruta/a/tu/imagen_conversion.png` y `ruta/a/tu/imagen_lista_monedas.png` con las rutas reales a tus archivos de imagen.)**
 
 
 ## Tecnologías Utilizadas
@@ -34,8 +33,8 @@ Aquí puedes ver el proyecto en ejecución:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/sindresorhus/del](https://github.com/sindresorhus/del)
-    cd [nombre del proyecto]
+    git clone [https://github.com/rlipac31/conversor-monedas-javaWeb.git](https://github.com/rlipac31/conversor-monedas-javaWeb.git)
+    cd [Consersorr de  Moneadas]
     ```
 
 2.  **Compilar el proyecto:**
@@ -70,7 +69,7 @@ Al ejecutar el programa, se te pedirá que ingreses el símbolo de la moneda bas
 
 ## Créditos
 
-[Rlipac31]
+[rlipac31]
 
 ## Licencia
 

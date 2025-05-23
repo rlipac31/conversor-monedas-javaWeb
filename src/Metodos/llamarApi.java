@@ -18,6 +18,7 @@ public class llamarApi {
     public MonedaConversion buscarMoneda(String monedaBase, String monedaDestino, double monto){
         String apiUrl = "https://v6.exchangerate-api.com/v6/d28b36a0cd750e98d335c1c0/pair/"+monedaBase+"/"+monedaDestino+"/"+monto;//par/ EUR / GBP // Ejemplo de una API pública
         String nombreArchivoJson = "respuesta_api.json";
+        System.out.println("url: "+ apiUrl);
         Gson gson = new GsonBuilder()
                 .setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE)
                 .setPrettyPrinting()
